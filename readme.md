@@ -7,12 +7,12 @@ Is a keyboard idea I've had for a while. It's not supposed be seen a product, or
 - Suitable for programming and general productivity, which means it needs to be comfortable during sustained use.
 
 ### The hardware
-MCU     = nRF52840          # As they're widely supported, offer modern features, and quite cheap on bulk.
-SWITCH  = Cherry MX         # Favorite key due to options, comfort, and kindness to enthusiastic use.
-CAS     = Custom 3d print   # Personalization. More of a hassle, but at least I'll be at fault for bad design.
-PLATE   = Custom 3d print   # Same as above. But can also be adapted to fit with other materials.
-PCB     = Custom PCB        # Made with KiCad which supports gerber export and has good switch footprint plugins.
+    MCU     = nRF52840          # widely supported, modern features, boards cheap on bulk
+    SWITCH  = Cherry MX         # Favorite key and shows kindness to enthusiastic use.
+    CASE    = Custom 3d print   # At least I'll be the one at fault for bad design.
+    PLATE   = Custom 3d print   # Same as above.
+    PCB     = Custom PCB        # Made in KiCad. Has gerber and keyboard plugin support.
 
 ### The software
-Because of MCU support both ZMK and QMK should be viable firmware to flash the mcu.
+With a nRF52840 board, ZMK or BlueMicro should be viable firmware to drive the keyboard, and offer plenty of customizability for my taste.
 I'll also be free of fixing software problems years in the future, should I still wish to use the keyboard.
