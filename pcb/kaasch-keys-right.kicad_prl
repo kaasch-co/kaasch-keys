@@ -59,7 +59,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "kaasch-keys.kicad_prl",
+    "filename": "kaasch-keys-right.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
