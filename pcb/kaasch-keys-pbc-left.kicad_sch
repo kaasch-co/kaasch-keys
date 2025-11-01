@@ -1562,16 +1562,6 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 154.94) (xy 95.25 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "572cdb29-f439-428c-b358-e324c1bdbe9a")
-	)
-	(wire
-		(pts
 			(xy 247.65 95.25) (xy 247.65 110.49)
 		)
 		(stroke
@@ -1659,6 +1649,16 @@
 			(type default)
 		)
 		(uuid "7b6107d5-080b-4d5e-b40e-7c37a810dcb3")
+	)
+	(wire
+		(pts
+			(xy 95.25 157.48) (xy 105.41 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84137902-f611-4ce6-a684-a9b7be688384")
 	)
 	(wire
 		(pts
@@ -1842,16 +1842,6 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 154.94) (xy 116.84 157.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b737d4d9-7421-4174-8a95-ed3d8367c013")
-	)
-	(wire
-		(pts
 			(xy 199.39 113.03) (xy 199.39 125.73)
 		)
 		(stroke
@@ -1919,16 +1909,6 @@
 			(type default)
 		)
 		(uuid "d49299da-93eb-4ceb-ad5f-ef7dc2030355")
-	)
-	(wire
-		(pts
-			(xy 95.25 157.48) (xy 116.84 157.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "defa9205-d5b0-4368-a599-c9aaeb2309ce")
 	)
 	(wire
 		(pts
@@ -2052,6 +2032,28 @@
 			)
 		)
 	)
+	(global_label "GND"
+		(shape input)
+		(at 58.42 157.48 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0b13b125-d40f-49ee-aa33-610949a3c3a9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 65.2757 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "col.2.L"
 		(shape input)
 		(at 143.51 121.92 270)
@@ -2092,6 +2094,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 95.25 154.94 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "26900bf5-9592-4a1d-a527-08107959929e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 102.1057 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -2273,6 +2297,28 @@
 			)
 		)
 	)
+	(global_label "GND"
+		(shape input)
+		(at 58.42 160.02 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7006ce2f-2639-455c-9edb-3ebf9bf722e7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 65.2757 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "row.0.L"
 		(shape input)
 		(at 58.42 175.26 0)
@@ -2440,6 +2486,28 @@
 		(uuid "c3e06b54-a1cb-40b7-bc37-7d7e74a130c5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 68.1181 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 115.57 157.48 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cb1a597b-0a32-4a51-9c05-a148735cc1f3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 122.4257 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3809,7 +3877,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 111.76 154.94 0)
+		(at 110.49 157.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3817,7 +3885,7 @@
 		(dnp no)
 		(uuid "2e3024d3-6004-4bd5-a966-15e1942a3fa5")
 		(property "Reference" "SW36"
-			(at 111.76 147.32 0)
+			(at 110.49 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3825,7 +3893,7 @@
 			)
 		)
 		(property "Value" "SW_Push_Reset"
-			(at 111.76 149.86 0)
+			(at 110.49 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3833,7 +3901,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1000P"
-			(at 111.76 149.86 0)
+			(at 110.49 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3842,7 +3910,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 111.76 149.86 0)
+			(at 110.49 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3851,7 +3919,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 111.76 154.94 0)
+			(at 110.49 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
