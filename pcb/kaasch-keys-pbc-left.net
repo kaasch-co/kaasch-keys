@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/home/toby/repos/kaasch-keys/pcb/kaasch-keys-pbc-left.kicad_sch")
-    (date "2025-11-01T04:07:54+0100")
+    (date "2025-11-03T02:57:55+0100")
     (tool "Eeschema 9.0.5")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -1189,11 +1189,11 @@
       (tstamps "5474e7b4-985e-4756-845a-81d715aefae2"))
     (comp (ref "SW30")
       (value "SW_Push")
-      (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB")
       (datasheet "~")
       (description "Push button switch, generic, two pins")
       (fields
-        (field (name "Footprint") "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+        (field (name "Footprint") "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB")
         (field (name "Datasheet") "~")
         (field (name "Description") "Push button switch, generic, two pins"))
       (libsource (lib "Switch") (part "SW_Push") (description "Push button switch, generic, two pins"))
@@ -1249,11 +1249,11 @@
       (tstamps "007c1397-be02-48fc-b23e-6e2793c20e87"))
     (comp (ref "SW34")
       (value "SW_Push")
-      (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB")
       (datasheet "~")
       (description "Push button switch, generic, two pins")
       (fields
-        (field (name "Footprint") "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+        (field (name "Footprint") "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB")
         (field (name "Datasheet") "~")
         (field (name "Description") "Push button switch, generic, two pins"))
       (libsource (lib "Switch") (part "SW_Push") (description "Push button switch, generic, two pins"))
