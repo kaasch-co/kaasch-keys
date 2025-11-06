@@ -1,19 +1,19 @@
 {
   "board": {
-    "active_layer": 25,
+    "active_layer": 2,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
     "hidden_nets": [],
     "high_contrast_mode": 0,
-    "net_color_mode": 2,
+    "net_color_mode": 1,
     "opacity": {
       "images": 0.6,
       "pads": 1.0,
       "shapes": 1.0,
       "tracks": 1.0,
       "vias": 1.0,
-      "zones": 1.0
+      "zones": 0.1599999964237213
     },
     "selection_filter": {
       "dimensions": true,
@@ -29,28 +29,12 @@
       "zones": true
     },
     "visible_items": [
-      "vias",
-      "footprint_text",
-      "footprint_anchors",
-      "ratsnest",
       "grid",
-      "footprints_front",
-      "footprints_back",
-      "footprint_values",
-      "footprint_references",
-      "tracks",
-      "drc_errors",
-      "bitmaps",
-      "pads",
       "zones",
-      "drc_warnings",
-      "drc_exclusions",
-      "locked_item_shadows",
-      "conflict_shadows",
       "shapes"
     ],
     "visible_layers": "ffffffff_ffffffff_ffffffff_ffffffff",
-    "zone_display_mode": 1
+    "zone_display_mode": 0
   },
   "git": {
     "repo_type": "",
@@ -58,7 +42,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "kaasch-keys-pbc-left.kicad_prl",
+    "filename": "kaasch-keys-pbc-right.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
@@ -107,8 +91,8 @@
     "group_by_netclass": false,
     "show_unconnected_nets": false,
     "show_zero_pad_nets": false,
-    "sort_ascending": false,
-    "sorting_column": 9
+    "sort_ascending": true,
+    "sorting_column": 0
   },
   "open_jobsets": [],
   "project": {
