@@ -4,3 +4,5 @@ fp-info-cache
 *autosave
 *.lck
 _autosave*
+*.step
+*.log
