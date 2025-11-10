@@ -504,7 +504,7 @@
       "plot": "gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "kaasch-keys-pbc-left.stl",
       "svg": "",
       "vrml": ""
     },

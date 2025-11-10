@@ -1,8 +1,8 @@
 (export (version "E")
   (design
     (source "/home/toby/repos/kaasch-keys/pcb/kaasch-keys-pcb-right.kicad_sch")
-    (date "2025-11-09T03:40:11+0100")
-    (tool "Eeschema 9.0.5")
+    (date "2025-11-10T20:08:10+0100")
+    (tool "Eeschema 9.0.6")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
         (title)
@@ -1413,7 +1413,7 @@
   (nets
     (net (code "1") (name "BAT+") (class "Default")
       (node (ref "J3") (pin "1") (pinfunction "Pin_1") (pintype "passive"))
-      (node (ref "SW37") (pin "1") (pinfunction "A") (pintype "passive")))
+      (node (ref "SW37") (pin "3") (pinfunction "C") (pintype "passive")))
     (net (code "2") (name "GND") (class "Default")
       (node (ref "J1") (pin "3") (pinfunction "Pin_3") (pintype "passive"))
       (node (ref "J1") (pin "4") (pinfunction "Pin_4") (pintype "passive"))
@@ -1639,5 +1639,5 @@
       (node (ref "J2") (pin "4") (pinfunction "Pin_4") (pintype "passive")))
     (net (code "58") (name "unconnected-(J2-Pin_5-Pad5)") (class "Default")
       (node (ref "J2") (pin "5") (pinfunction "Pin_5") (pintype "passive")))
-    (net (code "59") (name "unconnected-(SW37-C-Pad3)") (class "Default")
-      (node (ref "SW37") (pin "3") (pinfunction "C") (pintype "passive")))))
+    (net (code "59") (name "unconnected-(SW37-A-Pad1)") (class "Default")
+      (node (ref "SW37") (pin "1") (pinfunction "A") (pintype "passive")))))

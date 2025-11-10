@@ -2720,7 +2720,7 @@
 	)
 	(global_label "BAT+"
 		(shape input)
-		(at 40.64 73.66 0)
+		(at 40.64 78.74 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2730,7 +2730,7 @@
 		)
 		(uuid "834ba743-bae6-4c65-bf52-193c7e15248d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 48.5238 73.66 0)
+			(at 48.5238 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
