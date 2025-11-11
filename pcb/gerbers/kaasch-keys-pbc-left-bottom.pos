@@ -1,0 +1,43 @@
+### Footprint positions - created on 2025-11-10T02:38:33+0100 ###
+### Printed by KiCad version 9.0.5
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val             Package                               PosX       PosY       Rot  Side
+D1        1N4148          D_1206_3216Metric                  85.2092   -47.5320  180.0000  bottom
+D2        1N4148          D_1206_3216Metric                  85.2092   -66.5320  180.0000  bottom
+D3        1N4148          D_1206_3216Metric                  85.2092   -85.6320  180.0000  bottom
+D4        1N4148          D_1206_3216Metric                  85.2092  -104.6820  180.0000  bottom
+D5        1N4148          D_1206_3216Metric                  85.2092  -123.7320  180.0000  bottom
+D6        1N4148          D_1206_3216Metric                 104.2592   -47.5320  180.0000  bottom
+D7        1N4148          D_1206_3216Metric                 104.1092   -66.5320  180.0000  bottom
+D8        1N4148          D_1206_3216Metric                 104.2092   -85.5320  180.0000  bottom
+D9        1N4148          D_1206_3216Metric                 104.2592  -104.6820  180.0000  bottom
+D10       1N4148          D_1206_3216Metric                 104.2592  -123.7320  180.0000  bottom
+D11       1N4148          D_1206_3216Metric                 123.3092   -47.5320  180.0000  bottom
+D12       1N4148          D_1206_3216Metric                 123.3092   -66.5820  180.0000  bottom
+D13       1N4148          D_1206_3216Metric                 123.3092   -85.6320  180.0000  bottom
+D14       1N4148          D_1206_3216Metric                 123.3092  -104.6320  180.0000  bottom
+D15       1N4148          D_1206_3216Metric                 123.3092  -123.7320  180.0000  bottom
+D16       1N4148          D_1206_3216Metric                 142.3593   -47.5320  180.0000  bottom
+D17       1N4148          D_1206_3216Metric                 142.3593   -66.5820  180.0000  bottom
+D18       1N4148          D_1206_3216Metric                 142.3593   -85.6320  180.0000  bottom
+D19       1N4148          D_1206_3216Metric                 142.3593  -104.6820  180.0000  bottom
+D20       1N4148          D_1206_3216Metric                 142.3593  -123.7320  180.0000  bottom
+D21       1N4148          D_1206_3216Metric                 161.4092   -47.5320  180.0000  bottom
+D22       1N4148          D_1206_3216Metric                 161.4092   -66.5820  180.0000  bottom
+D23       1N4148          D_1206_3216Metric                 161.4092   -85.6320  180.0000  bottom
+D24       1N4148          D_1206_3216Metric                 161.4092  -104.6820  180.0000  bottom
+D25       1N4148          D_1206_3216Metric                 161.4092  -123.7320  180.0000  bottom
+D26       1N4148          D_1206_3216Metric                 180.4592   -47.5320  180.0000  bottom
+D27       1N4148          D_1206_3216Metric                 180.4592   -66.5820  180.0000  bottom
+D28       1N4148          D_1206_3216Metric                 180.4592   -85.6320  180.0000  bottom
+D29       1N4148          D_1206_3216Metric                 180.4592  -104.6820  180.0000  bottom
+D30       1N4148          D_1206_3216Metric                 190.6192  -134.4000  -115.0000  bottom
+D31       1N4148          D_1206_3216Metric                 199.5092   -47.5320  180.0000  bottom
+D32       1N4148          D_1206_3216Metric                 199.5092   -66.5820  180.0000  bottom
+D33       1N4148          D_1206_3216Metric                 199.5092   -85.6320  180.0000  bottom
+D34       1N4148          D_1206_3216Metric                 207.8912  -142.5280  -115.0000  bottom
+D35       1N4148          D_1206_3216Metric                 216.5272  -152.4340  155.0000  bottom
+J1        Conn_01x12_Pin  PinSocket_1x12_P2.54mm_Vertical   227.4492   -38.1340  180.0000  bottom
+J2        Conn_01x12_Pin  PinSocket_1x12_P2.54mm_Vertical   212.2092   -38.1340  180.0000  bottom
+## End

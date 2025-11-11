@@ -1,0 +1,44 @@
+### Footprint positions - created on 2025-11-10T02:38:33+0100 ###
+### Printed by KiCad version 9.0.5
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val            Package                                     PosX       PosY       Rot  Side
+J3        Conn_JST       JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical   227.4492   -76.2340  -90.0000  top
+SW1       SW_Push        SW_Cherry_MX_1.00u_PCB                   90.9243   -38.7690    0.0000  top
+SW2       SW_Push        SW_Cherry_MX_1.00u_PCB                   90.9243   -57.8190    0.0000  top
+SW3       SW_Push        SW_Cherry_MX_1.00u_PCB                   90.9243   -76.8690    0.0000  top
+SW4       SW_Push        SW_Cherry_MX_1.00u_PCB                   90.9243   -95.9190    0.0000  top
+SW5       SW_Push        SW_Cherry_MX_1.00u_PCB                   90.9243  -114.9690    0.0000  top
+SW6       SW_Push        SW_Cherry_MX_1.00u_PCB                  109.9742   -38.7690    0.0000  top
+SW7       SW_Push        SW_Cherry_MX_1.00u_PCB                  109.9742   -57.8190    0.0000  top
+SW8       SW_Push        SW_Cherry_MX_1.00u_PCB                  109.9742   -76.8690    0.0000  top
+SW9       SW_Push        SW_Cherry_MX_1.00u_PCB                  109.9742   -95.9190    0.0000  top
+SW10      SW_Push        SW_Cherry_MX_1.00u_PCB                  109.9742  -114.9690    0.0000  top
+SW11      SW_Push        SW_Cherry_MX_1.00u_PCB                  129.0242   -38.7690    0.0000  top
+SW12      SW_Push        SW_Cherry_MX_1.00u_PCB                  129.0242   -57.8190    0.0000  top
+SW13      SW_Push        SW_Cherry_MX_1.00u_PCB                  129.0242   -76.8690    0.0000  top
+SW14      SW_Push        SW_Cherry_MX_1.00u_PCB                  129.0242   -95.9190    0.0000  top
+SW15      SW_Push        SW_Cherry_MX_1.00u_PCB                  129.0242  -114.9690    0.0000  top
+SW16      SW_Push        SW_Cherry_MX_1.00u_PCB                  148.0743   -38.7690    0.0000  top
+SW17      SW_Push        SW_Cherry_MX_1.00u_PCB                  148.0743   -57.8190    0.0000  top
+SW18      SW_Push        SW_Cherry_MX_1.00u_PCB                  148.0743   -76.8690    0.0000  top
+SW19      SW_Push        SW_Cherry_MX_1.00u_PCB                  148.0743   -95.9190    0.0000  top
+SW20      SW_Push        SW_Cherry_MX_1.00u_PCB                  148.0743  -114.9690    0.0000  top
+SW21      SW_Push        SW_Cherry_MX_1.00u_PCB                  167.1242   -38.7690    0.0000  top
+SW22      SW_Push        SW_Cherry_MX_1.00u_PCB                  167.1242   -57.8190    0.0000  top
+SW23      SW_Push        SW_Cherry_MX_1.00u_PCB                  167.1242   -76.8690    0.0000  top
+SW24      SW_Push        SW_Cherry_MX_1.00u_PCB                  167.1242   -95.9190    0.0000  top
+SW25      SW_Push        SW_Cherry_MX_1.00u_PCB                  167.1242  -114.9690    0.0000  top
+SW26      SW_Push        SW_Cherry_MX_1.00u_PCB                  186.1743   -38.7690    0.0000  top
+SW27      SW_Push        SW_Cherry_MX_1.00u_PCB                  186.1743   -57.8190    0.0000  top
+SW28      SW_Push        SW_Cherry_MX_1.00u_PCB                  186.1743   -76.8690    0.0000  top
+SW29      SW_Push        SW_Cherry_MX_1.00u_PCB                  186.1743   -95.9190    0.0000  top
+SW30      SW_Push        SW_Cherry_MX_1.50u_PCB                  184.9860  -125.6489   65.0000  top
+SW31      SW_Push        SW_Cherry_MX_1.00u_PCB                  205.2242   -38.7690    0.0000  top
+SW32      SW_Push        SW_Cherry_MX_1.00u_PCB                  205.2242   -57.8190    0.0000  top
+SW33      SW_Push        SW_Cherry_MX_1.00u_PCB                  205.2242   -76.8690    0.0000  top
+SW34      SW_Push        SW_Cherry_MX_1.50u_PCB                  202.2511  -133.6998   65.0000  top
+SW35      SW_Push        SW_Cherry_MX_1.00u_PCB                  225.4831  -146.9853  -25.0000  top
+SW36      SW_Push_Reset  SW_SPST_B3U-1000P                       202.6842  -100.9990  180.0000  top
+SW37      SW_Slide_Bat   SW_SPDT_PCM12                           219.8293   -41.1820  180.0000  top
+## End
