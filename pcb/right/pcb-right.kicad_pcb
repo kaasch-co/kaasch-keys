@@ -34,6 +34,45 @@
 		(45 "User.4" user)
 	)
 	(setup
+		(stackup
+			(layer "F.SilkS"
+				(type "Top Silk Screen")
+			)
+			(layer "F.Paste"
+				(type "Top Solder Paste")
+			)
+			(layer "F.Mask"
+				(type "Top Solder Mask")
+				(thickness 0.01)
+			)
+			(layer "F.Cu"
+				(type "copper")
+				(thickness 0.035)
+			)
+			(layer "dielectric 1"
+				(type "core")
+				(thickness 1.51)
+				(material "FR4")
+				(epsilon_r 4.5)
+				(loss_tangent 0.02)
+			)
+			(layer "B.Cu"
+				(type "copper")
+				(thickness 0.035)
+			)
+			(layer "B.Mask"
+				(type "Bottom Solder Mask")
+				(thickness 0.01)
+			)
+			(layer "B.Paste"
+				(type "Bottom Solder Paste")
+			)
+			(layer "B.SilkS"
+				(type "Bottom Silk Screen")
+			)
+			(copper_finish "None")
+			(dielectric_constraints no)
+		)
 		(pad_to_mask_clearance 0)
 		(allow_soldermask_bridges_in_footprints no)
 		(tenting front back)
@@ -20975,7 +21014,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "154.839"
+		(gr_text "154,839"
 			(at 150.0346 23.728 0)
 			(layer "Dwgs.User")
 			(uuid "03453608-6aff-4b63-a9a2-57f8bd19114d")
@@ -21012,7 +21051,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "151.130"
+		(gr_text "151,130"
 			(at 151.8886 31.228 0)
 			(layer "Dwgs.User")
 			(uuid "240b0c3c-2fd3-44b3-8966-eb794e3ff77f")
@@ -21049,7 +21088,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "95.252"
+		(gr_text "95,252"
 			(at 241.3036 87.504 90)
 			(layer "Dwgs.User")
 			(uuid "91bbe1b9-84dd-476f-8cd7-548c1a2c8d02")
@@ -21086,7 +21125,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "128.854"
+		(gr_text "128,854"
 			(at 56.3036 104.3051 90)
 			(layer "Dwgs.User")
 			(uuid "c0930dac-9c30-42e3-97b2-b7524d8df0b7")
