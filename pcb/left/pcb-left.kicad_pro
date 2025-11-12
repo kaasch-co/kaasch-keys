@@ -500,7 +500,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "kaasch-keys-pbc-left.net",
+      "netlist": "pcb-left.net",
       "plot": "gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
