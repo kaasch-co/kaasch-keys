@@ -504,7 +504,7 @@
       "plot": "gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "pbc-left.stl",
+      "step": "pcb-left-no-components.stl",
       "svg": "",
       "vrml": ""
     },
